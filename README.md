@@ -8,7 +8,7 @@ reranking, contextual retrieval, and RAGAS evaluation.
 | Stage | Topic | Status |
 |---|---|---|
 | 1 | Why RAG exists | ✅ Complete |
-| 2 | Naive RAG — the baseline | 🔄 In progress |
+| 2 | Naive RAG — the baseline | ✅ Complete |
 | 3 | Where naive RAG breaks | ✅ Complete |
 | 4 | Advanced RAG — the fixes | ⏳ Upcoming |
 | 5 | RAG evaluation with RAGAS | ⏳ Upcoming |
