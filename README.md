@@ -14,5 +14,5 @@ reranking, contextual retrieval, and RAGAS evaluation.
 | 5 | RAG evaluation with RAGAS | ⏳ Upcoming |
 | 6 | LexiQuery — production project | ⏳ Upcoming |
 
-## Built while preparing for GenAI Engineer roles (25-35 LPA) in Bangalore
+
 Stack: Python · LangChain · OpenSearch · Cohere Rerank · RAGAS · FastAPI · Docker
