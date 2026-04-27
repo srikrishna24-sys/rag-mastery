@@ -8,8 +8,8 @@ reranking, contextual retrieval, and RAGAS evaluation.
 | Stage | Topic | Status |
 |---|---|---|
 | 1 | Why RAG exists | ✅ Complete |
-| 2 | Naive RAG — the baseline | 🔄 In progress |
-| 3 | Where naive RAG breaks | ⏳ Upcoming |
+| 2 | Naive RAG — the baseline | ✅ Complete |
+| 3 | Where naive RAG breaks | ✅ Complete |
 | 4 | Advanced RAG — the fixes | ⏳ Upcoming |
 | 5 | RAG evaluation with RAGAS | ⏳ Upcoming |
 | 6 | LexiQuery — production project | ⏳ Upcoming |
