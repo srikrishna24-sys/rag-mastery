@@ -10,7 +10,7 @@ reranking, contextual retrieval, and RAGAS evaluation.
 | 1 | Why RAG exists | ✅ Complete |
 | 2 | Naive RAG — the baseline | ✅ Complete |
 | 3 | Where naive RAG breaks | ✅ Complete |
-| 4 | Advanced RAG — the fixes | ⏳ Upcoming |
+| 4 | Advanced RAG — the fixes | ✅ Complete |
 | 5 | RAG evaluation with RAGAS | ⏳ Upcoming |
 | 6 | LexiQuery — production project | ⏳ Upcoming |
 
